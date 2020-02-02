@@ -1,3 +1,11 @@
+# CST 311
+# Programming Assignment 2
+# Team 7
+# Amir-Andy Alameddine
+# Michael Lee
+# Ramon Lucindo
+# Sergio Quiroz
+
 # UDPPingerServer.py
 # We will need the following module to generate randomized lost packets
 
